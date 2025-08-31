@@ -1,0 +1,9 @@
+name: d3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.11
+  - flask
+prefix: Q:\condaenvs\d3

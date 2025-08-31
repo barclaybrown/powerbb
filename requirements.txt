@@ -1,0 +1,57 @@
+asttokens==3.0.0
+blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1731096409132/work
+certifi==2025.6.15
+charset-normalizer==3.4.2
+click @ file:///D:/bld/click_1747811308011/work
+colorama==0.4.6
+comm==0.2.2
+debugpy==1.8.13
+decorator==5.2.1
+executing==2.2.0
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1747203985407/work
+idna==3.10
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1747934053/work
+iniconfig==2.1.0
+ipykernel==6.29.5
+ipython==9.0.2
+ipython_pygments_lexers==1.1.1
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1733308265247/work
+jedi==0.19.2
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+lxml==6.0.1
+MarkupSafe @ file:///D:/bld/markupsafe_1733219614059/work
+matplotlib-inline==0.1.7
+nest-asyncio==1.6.0
+opencv-contrib-python==4.5.5.64
+packaging==24.2
+parso==0.8.4
+pillow==11.3.0
+platformdirs==4.3.6
+pluggy==1.6.0
+prompt_toolkit==3.0.50
+psutil==7.0.0
+pure_eval==0.2.3
+Pygments==2.19.1
+pyperclip==1.9.0
+PySide6==6.9.2
+PySide6_Addons==6.9.2
+PySide6_Essentials==6.9.2
+pytest==8.4.0
+python-dateutil==2.9.0.post0
+python-pptx==1.0.2
+pywin32==309
+pyzmq==26.3.0
+requests==2.32.4
+shiboken6==6.9.2
+six==1.17.0
+stack-data==0.6.3
+tornado==6.4.2
+traitlets==5.14.3
+typing_extensions==4.12.2
+urllib3==2.4.0
+wcwidth==0.2.13
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1733160440960/work
+xlsxwriter==3.2.5
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work

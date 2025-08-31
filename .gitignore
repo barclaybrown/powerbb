@@ -1,0 +1,44 @@
+# --- Python/Conda caches ---
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Local env folders (if you ever create one inside the repo) ---
+.venv/
+venv/
+env/
+.conda/
+.mamba/
+
+# --- Build / packaging / coverage ---
+build/
+dist/
+*.egg-info/
+htmlcov/
+.coverage
+coverage.xml
+
+# --- IDE / OS ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Project-specific: generated decks & scratch ---
+# Preferred pattern: write outputs to ./output and ignore the whole folder
+output/
+generated/
+tmp/
+temp/
+
+# If you also want to ignore *all* PPTX files by default:
+# (recommended if most PPTX are generated)
+*.pptx
+# ...but KEEP any curated samples/templates in these folders:
+!templates/**.pptx
+!samples/**.pptx
+# If you want to keep this one sample explicitly in root, un-ignore it:
+!powerbb_roundtrip_test.pptx
