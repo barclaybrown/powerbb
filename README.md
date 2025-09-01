@@ -34,6 +34,16 @@ Launch the graphical interface:
 python powerbb_ui.py
 ```
 
+## Slider CLI
+
+Inspect existing PowerPoint files.
+
+```bash
+python slider.py --file samples/powerbb_roundtrip_test.pptx --list
+python slider.py --file samples/powerbb_roundtrip_test.pptx --show 2
+python slider.py --file samples/powerbb_roundtrip_test.pptx --json output/slides.json
+```
+
 ## Testing
 
 ```bash
